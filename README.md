@@ -1,6 +1,7 @@
 python submit-job.py some-job.json
 
-The JSON job file looks something like this.
+The JSON job file looks something like this.  
+Note: Various usernames and URLs replaced with ... in the sample.
 
 ~~~
 {
